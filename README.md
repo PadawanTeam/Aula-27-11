@@ -4,7 +4,7 @@
 Utilizando o git efecientemente
 ===============================
 
-Utilizar a colinha do GIT para utilziar os comandos com eficiência.
+Utilizar a colinha do GIT para utiliziar os comandos com eficiência.
 
 ##A importancia do .gitignore
 
